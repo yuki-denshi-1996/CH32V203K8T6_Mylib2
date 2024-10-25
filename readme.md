@@ -17,6 +17,9 @@
 # はじめに
 このプロジェクトはCH32V203K8T6用のライブラリです。<BR>
 <BR>
+MounRiver Studio標準コンパイラ (ライブラリシステム)で実行できるようになっています。<BR>
+main.cに参考プログラムが書かれています。<BR>
+<BR>
 Userディレクトリの中に <BR> 
 ch32v203_XXXXX_mylib.h, <BR>
 ch32v203_XXXXX_mylib.c <BR>
