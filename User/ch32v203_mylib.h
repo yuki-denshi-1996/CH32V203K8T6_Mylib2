@@ -1,4 +1,9 @@
 /*
+* SPDX-FileCopyrightText: 2024 yuki-denshi-1996 <matsukawa.software@gmail.com>
+* SPDX-License-Identifier: BSD 3-Clause
+*/
+
+/*
  * ch32v203_mylib.h
  *
  *  Created on: Jun 30, 2024

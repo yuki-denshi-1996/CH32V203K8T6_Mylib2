@@ -1,3 +1,8 @@
+/*
+* SPDX-FileCopyrightText: 2024 yuki-denshi-1996 <matsukawa.software@gmail.com>
+* SPDX-License-Identifier: BSD 3-Clause
+*/
+
 #include <ch32v20x.h>
 #include "ch32v203_mylib.h"
 
