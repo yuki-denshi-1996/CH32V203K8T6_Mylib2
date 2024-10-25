@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "ch32v203_gpio_mylib.h": "c"
+    }
+}

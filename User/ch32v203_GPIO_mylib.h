@@ -11,8 +11,11 @@
  *      CH32V203K8T6に合わせて作っています
  */
 
-#ifndef USER_CH32V203_MYLIB_H_
-#define USER_CH32V203_MYLIB_H_
+#ifndef USER_CH32V203_GPIO_MYLIB_H_
+#define USER_CH32V203_GPIO_MYLIB_H_
+
+#include <stdint.h>
+#include "ch32v20x.h"
 
 //ピン番号
 #define PA0 0x10
@@ -74,4 +77,4 @@ void digitalWrite(int Pin, int val); //GPIO出力
 //ビット置き換え関数
 uint32_t bit_replace(uint32_t data, uint32_t byte, uint8_t len, uint8_t shift);
 
-#endif /* USER_CH32V203_MYLIB_H_ */
+#endif /* USER_CH32V203_GPIO_MYLIB_H_ */

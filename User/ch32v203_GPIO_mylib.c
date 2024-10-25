@@ -10,8 +10,7 @@
  *      Author: denshi1996(yuki)
  */
 
-#include "ch32v20x.h"
-#include "ch32v203_mylib.h"
+#include "ch32v203_GPIO_mylib.h"
 
 //GPIOAの有効化
 void GPIOA_init(void) {
